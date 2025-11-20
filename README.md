@@ -259,7 +259,7 @@ Los datos se almacenan en mariado pero antes se tiene que hacer una función.
 
 1. Imagen de la función
 
-![Función Node-RED](images/funcion-node-red.jpg)
+![Función Node-RED](images/funcion-node-red.png)
 
 ```javascript
 // Procesar los datos del sensor HC-SR04  
